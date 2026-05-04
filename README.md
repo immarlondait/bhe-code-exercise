@@ -28,7 +28,7 @@ Using **Python**, this project implements a Sieve of Eratosthenes to compute the
 * Used brute-force and filepath for fuzz testing validation
 
 ### Future optimizations
-* Adjust for odds-only indexing
+* Adjust for odds-only value indexing
 * Static segment size
 
 ### Requirements
